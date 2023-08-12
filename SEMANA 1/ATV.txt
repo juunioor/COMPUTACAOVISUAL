@@ -1,0 +1,3 @@
+3295971 | VALDIR LOPES JUNIOR
+
+Computação Visual para mim é a parte que se move por trás de todo "visual" da parte computacional da coisa. Quais tipos de cálculos e funções acontecem para executar determinada ação visual no sistema. Tanto também a parte 3D e objetos, calculos de localização, movimento, imagens e etc.
