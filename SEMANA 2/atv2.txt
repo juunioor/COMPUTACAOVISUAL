@@ -1,0 +1,21 @@
+32092921 | MATHEUS HENRIQUE DA SILVA APOSTULO
+
+COMPUTAÇÃO GRÁFICA
+Cultura e Entretenimento - Toy Story
+A computação gráfica está muito presente em muitas produções de diversas animações, filmes e outros conteúdos audiovisuais. "Toy Story" inovou ao criar personagens, ambientes e cenas 
+completamente em 3D, substituindo os métodos de animação tradicionais. Portanto, escolhi essa aplicação justamente pelo caráter evolucionário e marcante, tanto pra mim como usuário, quanto
+para a indústria como nova ferramenta.
+
+
+VISÃO COMPUTACIONAL
+Imagens Médicas - Microsoft InnerEye
+Podemos resumir Visão Computacional como uma disciplina de IA que analisa imagens para decisões ou dados futuros, imitando a visão humana para detecção de objetos e compreensão de 
+ambientes. Dito isso, escolhi uma aplicação de imagens médicas, como por exemplo, o Microsoft InnerEye, que fornece diagnósticos rápidos e precisos em um número crescente de especialidades 
+médicas, assim, auxiliando os médicos a diagnosticar as condições dos pacientes. Escolhi essa aplicação por ter um forte interesse em técnicas de Inteligência Artificial na saúde, já tinha
+conhecimento dos benefícios dessas ferramentas nessa área, e, com isso, tive um
+
+
+Referências
+https://maxrender.com.br/artigo/computação-gráfica:-conheça-4-das-suas-principais-aplicações
+https://epocanegocios.globo.com/Tecnologia/noticia/2019/06/epoca-negocios-toy-story-1-foi-marcante-como-1a-animacao-toda-produzida-em-computador.html
+
