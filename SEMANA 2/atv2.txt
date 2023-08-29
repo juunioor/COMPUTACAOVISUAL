@@ -11,11 +11,15 @@ VISÃO COMPUTACIONAL
 Imagens Médicas - Microsoft InnerEye
 Podemos resumir Visão Computacional como uma disciplina de IA que analisa imagens para decisões ou dados futuros, imitando a visão humana para detecção de objetos e compreensão de 
 ambientes. Dito isso, escolhi uma aplicação de imagens médicas, como por exemplo, o Microsoft InnerEye, que fornece diagnósticos rápidos e precisos em um número crescente de especialidades 
-médicas, assim, auxiliando os médicos a diagnosticar as condições dos pacientes. Escolhi essa aplicação por ter um forte interesse em técnicas de Inteligência Artificial na saúde, já tinha
-conhecimento dos benefícios dessas ferramentas nessa área, e, com isso, tive um
+médicas, assim, auxiliando os médicos a diagnosticar as condições dos pacientes. Escolhi essa aplicação por ter um forte interesse em técnicas de Inteligência Artificial na saúde, visto que eu já tinha conhecimento dos benefícios dessas ferramentas na área, e, com isso, aproveitei a possibilidade de ampliar os conhecimentos de que parte dessas técnicas estão inseridas em uma subárea da Computação Visual, no caso, a Visão Computacional.
+
+PROCESSAMENTO DE IMAGENS
 
 
 Referências
 https://maxrender.com.br/artigo/computação-gráfica:-conheça-4-das-suas-principais-aplicações
 https://epocanegocios.globo.com/Tecnologia/noticia/2019/06/epoca-negocios-toy-story-1-foi-marcante-como-1a-animacao-toda-produzida-em-computador.html
+https://santodigital.com.br/o-que-e-visao-computacional-e-para-que-serve/#:~:text=Visão%20computacional%20é%20uma%20área,relevantes%20para%20uma%20aplicação%20futura.
+https://www.engenhariahibrida.com.br/post/o-que-e-visao-computacional-10-principais-aplicacoes#viewer-3b00q
+https://www.microsoft.com/en-us/research/project/medical-image-analysis/
 
