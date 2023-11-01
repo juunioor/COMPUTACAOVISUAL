@@ -155,3 +155,11 @@ https://registry.khronos.org/OpenGL/index_gl.php/xml/README.adoc
 https://www.badprog.com/c-opengl-hello-world
 
 https://en.wikipedia.org/wiki/List_of_OpenGL_applications
+
+https://devdocs.io/vulkan/
+
+https://registry.khronos.org/vulkan/specs/1.0/html/vkspec.html#shader-modules
+
+https://www.amd.com/pt/technologies/vulkan
+
+https://www.vulkan.org/
